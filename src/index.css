@@ -2,9 +2,14 @@ body {
   background-color: rgb(57, 57, 57);
   color: rgb(255, 255, 255);
   text-align: center;
+  margin: 0;
 }
 
-/* CSS */
+.header {
+  background-color: #1a9898;
+  color: black;
+  padding: 5px;
+}
 button {
   background-color: #1a9898;
   border-radius: 100px;
