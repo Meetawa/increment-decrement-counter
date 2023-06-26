@@ -9,11 +9,11 @@ const Counter = () => {
     return setCounter(counter - 1);
   };
   return (
-    <>
+    <div className="counter">
       <h1>State is : {counter}</h1>
       <button onClick={Decrement}>-</button>
       <button onClick={Increment}>+</button>
-    </>
+    </div>
   );
 };
 
