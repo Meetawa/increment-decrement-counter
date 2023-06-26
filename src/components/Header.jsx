@@ -2,9 +2,9 @@ import React from "react";
 
 const Header = () => {
   return (
-    <>
-      <h1> React UseState HOOkS</h1>
-    </>
+    <div className="header">
+      <h1>Increment And Decrement Counter</h1>
+    </div>
   );
 };
 
