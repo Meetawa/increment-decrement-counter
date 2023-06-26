@@ -11,9 +11,12 @@ body {
   padding: 5px;
 }
 .counter {
-  margin: 50px;
-  padding: 100px;
+  padding: 50px;
 }
+.counter h1 {
+  font-size: 100px;
+}
+
 button {
   background-color: #1a9898;
   border-radius: 100px;
